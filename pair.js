@@ -58,18 +58,16 @@ router.get('/', async (req, res) => {
 
                let SIGMA_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃QUEEN_ANITA_V2 SESSION IS 
+┃SHADOW ⚜️ SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘⚡ DAVID CYRIL ⚡𖥘
+❶ || Creator = 𖥘⚡ TRYTON ⚡𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
+❷ || Owner = https://wa.me/254105008363
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://wa.me/2349066528353
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 David Cyril*`
+©*SHADOW*`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
